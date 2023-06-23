@@ -10,7 +10,7 @@ El programa desplega un menu de 3 opciones, debera ingresar el numero de la opci
 
 Opcion 1: el programa te pedira un numero en sistema decimal y te mostrara el numero convertido en Hexadecimal
 		  
--EJEMPLO: Entrada (255), Salida (FF)
+-EJEMPLO: Entrada (560), Salida (230)
 
 Opcion 2: el programa te pedira un numero en sistema hexadeciaml y te mostrar el numero convertido en decimal
 		  
